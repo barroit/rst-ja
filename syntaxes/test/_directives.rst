@@ -1,4 +1,4 @@
--- SYNTAX TEST "source.jp.rst" "directives"
+-- SYNTAX TEST "source.ja.rst" "directives"
 
 .. include:: somefile.rst
 -- ^^^^^^^^^ keyword.control

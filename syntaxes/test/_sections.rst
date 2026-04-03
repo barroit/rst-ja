@@ -1,4 +1,4 @@
-// SYNTAX TEST "source.jp.rst" "sections"
+// SYNTAX TEST "source.ja.rst" "sections"
 
 Section
 =======

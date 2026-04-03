@@ -1,4 +1,4 @@
--- SYNTAX TEST "source.jp.rst" "nested blocks"
+-- SYNTAX TEST "source.ja.rst" "nested blocks"
 
 :param: abc
 -- <----- -keyword.control

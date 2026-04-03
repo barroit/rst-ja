@@ -1,4 +1,4 @@
--- SYNTAX TEST "source.jp.rst" "roles"
+-- SYNTAX TEST "source.ja.rst" "roles"
 
 This line contains a :ref:`reference_label`
 --                   ^^^^^ keyword.control

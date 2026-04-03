@@ -1,4 +1,4 @@
--- SYNTAX TEST "source.jp.rst" "inline markup"
+-- SYNTAX TEST "source.ja.rst" "inline markup"
 
 This line has **bold** text
 --            ^^^^^^^^ markup.bold

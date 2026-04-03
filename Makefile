@@ -1,6 +1,6 @@
 # SPDX-License-Identifier: MIT
 
-name := rst-jp
+name := rst-ja
 vsix := $(name).vsix
 
 input := $(wildcard syntaxes/*.tmLanguage.json)

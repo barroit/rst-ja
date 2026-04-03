@@ -1,4 +1,4 @@
--- SYNTAX TEST "source.jp.rst" "links"
+-- SYNTAX TEST "source.ja.rst" "links"
 
 This line has an `inline <https://github.com>`_ link
 --               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^ entity.name.tag

@@ -1,4 +1,4 @@
--- SYNTAX TEST "source.jp.rst" "footnotes"
+-- SYNTAX TEST "source.ja.rst" "footnotes"
 
 This line contains an explicitly numbered footnote reference [1]_
 --                                                           ^^^^ entity.name.tag
