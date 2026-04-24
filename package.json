@@ -48,14 +48,6 @@
 			"supported": true
 		}
 	},
-	"scripts": {
-		"vscode:prepublish": "npm run compile",
-		"compile": "tsc -p ./",
-		"lint": "eslint src --ext ts,json",
-		"watch": "tsc -watch -p ./",
-		"test": "node ./scripts/validate_schema.js",
-		"test-grammar": "vscode-tmgrammar-test -c -s source.ja.rst -g syntaxes/rst.tmLanguage.json -t \"syntaxes/**/*.rst\""
-	},
 	"devDependencies": {
 		"@types/compare-versions": "^3.3.0",
 		"@types/glob": "^7.1.3",
